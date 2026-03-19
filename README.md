@@ -1,6 +1,6 @@
 # BioShield: Predictive Integrated Pest Management (IPM)
 
-[![BioShield App Screenshot](Biosheild.png)](BIOSHEILD.mp4)
+[![BioShield App Screenshot](Biosheild.png)]([BIOSHEILD.mp4](https://youtu.be/H0FPgE5UX4U))
 *(Click the image above to watch our 90-second pitch and UI demo!)*
 
 ## 🌿 Overview
@@ -55,7 +55,7 @@ To support scalability and integration with existing farm infrastructure, we hav
 ## 👥 The Team
 Developed with passion for the **Agri-food Innovation Challenge**.
 
-1. **[Prabhsharan Singh Sethi](https://github.com/your-github)** - [Lead Developer & Video Production]
+1. **[Prabhsharan Singh Sethi](https://github.com/prabhsharan1)** - [Lead Developer & Video Production]
 2. **[Jamie Tan](https://github.com/your-github)** - [Quality Assurance (QA) & Product Review]
 3. **[Ashley Zhu](https://github.com/your-github)** - [Physical Showcase Design (Trifold) & Pitch Strategy]
 4. **[Gurleen Kaur](https://github.com/your-github)** - [Presentation Coordination & UI Feedback]
