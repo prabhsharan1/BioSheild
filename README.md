@@ -1,16 +1,10 @@
 # BioShield: Predictive Integrated Pest Management (IPM)
 
-![BioShield App Screenshot](https://picsum.photos/seed/bioshield-hero/1200/600)
-*Placeholder for App Screenshot*
+[![BioShield App Screenshot](Biosheild.png)](BIOSHEILD.mp4)
+*(Click the image above to watch our 90-second pitch and UI demo!)*
 
 ## 🌿 Overview
 **BioShield** is an intelligence layer for modern greenhouses designed to eliminate the 10-20% yield loss caused by pests and disease. Developed as part of the **Agri-food Innovation Challenge**, BioShield bridges the gap between high-level climate data and ground-level execution.
-
----
-
-## 🎥 Pitch Video
-[![BioShield Pitch Video](https://picsum.photos/seed/bioshield-video/800/450)](https://youtube.com)
-*Placeholder for Pitch Video*
 
 ---
 
