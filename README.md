@@ -1,6 +1,6 @@
 # BioShield: Predictive Integrated Pest Management (IPM)
 
-[![BioShield App Screenshot](Biosheild.png)]([BIOSHEILD.mp4](https://youtu.be/H0FPgE5UX4U))
+[![BioShield App Screenshot](Biosheild.png)](https://youtu.be/H0FPgE5UX4U)
 *(Click the image above to watch our 90-second pitch and UI demo!)*
 
 ## 🌿 Overview
