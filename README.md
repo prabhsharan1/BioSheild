@@ -56,9 +56,9 @@ To support scalability and integration with existing farm infrastructure, we hav
 Developed with passion for the **Agri-food Innovation Challenge**.
 
 1. **[Prabhsharan Singh Sethi](https://github.com/prabhsharan1)** - [Lead Developer & Video Production]
-2. **[Jamie Tan]** - [Quality Assurance (QA) & Product Review]
-3. **[Ashley Zhu]** - [Physical Showcase Design (Trifold) & Pitch Strategy]
-4. **[Gurleen Kaur]** - [Presentation Coordination & UI Feedback]
+2. **Jamie Tan** - [Quality Assurance (QA) & Product Review]
+3. **Ashley Zhu** - [Physical Showcase Design (Trifold) & Pitch Strategy]
+4. **Gurleen Kaur** - [Presentation Coordination & UI Feedback]
 
 ---
 *BioShield: Predictive, Zero-Waste farming is ready now.*
